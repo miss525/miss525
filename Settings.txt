@@ -1,0 +1,6 @@
+b7510970-1c8d-013a-047e-06b6bba5aba3199349
+7782692590d76a63f4521223b09fa84ab2fc7bd214dedf0c648184c8723e5cc1
+
+https://inflectra-corporation-dev.onelogin.com/oidc/2/auth
+https://inflectra-corporation-dev.onelogin.com/oidc/2/token
+https://inflectra-corporation-dev.onelogin.com/oidc/2/me
