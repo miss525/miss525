@@ -1,0 +1,4 @@
+var CreateDocument_Insert = SeS('restAPI_AWS_Post_Document');
+
+    CreateDocument_Insert.SetRequestBodyObject(file , documentDto);
+    CreateDocument_Insert.DoExecute();
